@@ -1,0 +1,44 @@
+ERROR | 2023-11-21 | 08:11:07 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 08:11:08 | {'status': True, 'data': [('Only MRDC', 'onlymrdc@gmail.com', None, None, None, None)], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 08:12:38 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 08:12:38 | {'status': True, 'data': [('Antonius Geralldy', 'antonius.geralldy@ymail.com', '+6289123456789', '9990020128846670', None, None)], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 08:25:30 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 08:25:32 | {'status': True, 'data': [('Antonius Geralldy', 'antonius.geralldy@ymail.com', '+6289123456789', '9990020128846670', None, None)], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 08:38:40 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 08:38:43 | {'status': True, 'data': [('Antonius Geralldy', 'antonius.geralldy@ymail.com', '+6289123456789', '9990020128846670', None, None)], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 12:22:46 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 12:22:48 | {'status': True, 'data': [], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 0, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 12:54:57 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 12:54:58 | {'status': True, 'data': [], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 0, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 13:02:37 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 13:02:37 | {'status': True, 'data': [], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 0, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 13:04:21 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 13:04:21 | {'status': True, 'data': [], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 0, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 13:06:18 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 13:06:18 | {'status': True, 'data': [], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 0, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 13:07:49 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 13:07:49 | {'status': True, 'data': [], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 0, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 13:08:56 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 13:08:57 | {'status': True, 'data': [], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 0, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 13:15:56 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 13:15:57 | {'status': True, 'data': [], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 0, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 13:16:20 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 13:16:20 | {'status': True, 'data': [], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 0, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 13:35:18 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 13:35:59 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 13:36:34 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 13:37:34 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 13:40:13 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 13:40:24 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 13:40:35 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 13:41:31 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 13:42:10 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 14:01:16 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-21 | 14:01:51 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 14:01:51 | {'status': True, 'data': [('Antoni', 'antonius@onstock.id', None)], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 14:04:19 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 14:04:20 | {'status': True, 'data': [('Antoni', 'antonius@onstock.id', None)], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 14:06:56 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 14:06:56 | {'status': True, 'data': [('Antoni', 'antonius@onstock.id', None)], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-21 | 14:07:10 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-21 | 14:07:10 | {'status': True, 'data': [('Antoni', 'antonius@onstock.id', None)], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}

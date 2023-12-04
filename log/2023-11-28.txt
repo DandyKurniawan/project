@@ -1,0 +1,9 @@
+ERROR | 2023-11-28 | 08:20:06 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-11-28 | 08:33:29 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+INFO | 2023-11-28 | 08:33:30 | {'status': True, 'data': [('riska affidatultrisakti', 'riska.zakti99@gmail.com', '9990021133043837')], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-28 | 08:55:40 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-11-28 | 09:06:23 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-11-28 | 09:10:39 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-11-28 | 10:09:25 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-11-28 | 13:40:49 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-11-28 | 13:44:37 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'

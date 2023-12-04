@@ -1,0 +1,9 @@
+ERROR | 2023-11-25 | 14:07:17 | File Not Found
+ERROR | 2023-11-25 | 14:09:46 | File Not Found
+INFO | 2023-11-25 | 14:09:46 | {'status': False, 'msg': 'File Not Found', 'errorcode': '03'}
+ERROR | 2023-11-25 | 14:13:25 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-25 | 14:13:46 | connection to server at "34.101.181.164", port 5432 failed: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+INFO | 2023-11-25 | 14:13:46 | {'status': False, 'msg': 'Koneksi Database Error, Terdapat kesalahan Koneksi', 'errorcode': '01'}

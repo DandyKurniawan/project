@@ -1,0 +1,16 @@
+ERROR | 2023-11-30 | 08:59:04 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-11-30 | 09:07:21 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+INFO | 2023-11-30 | 09:07:22 | {'status': True, 'data': [('riska affidatultrisakti', 'riska.zakti99@gmail.com', '9990021133043837')], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-30 | 14:06:24 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+INFO | 2023-11-30 | 14:06:25 | None
+ERROR | 2023-11-30 | 14:06:48 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+INFO | 2023-11-30 | 14:06:49 | None
+ERROR | 2023-11-30 | 14:10:17 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+INFO | 2023-11-30 | 14:10:20 | None
+ERROR | 2023-11-30 | 14:12:38 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+INFO | 2023-11-30 | 14:12:40 | {'status': True, 'data': [('Azman Ardiansyah', 'smanardiansyah@gmail.com', '9990021269055414')], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-30 | 14:15:00 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+INFO | 2023-11-30 | 14:15:01 | {'status': True, 'data': [{'name': 'Azman Ardiansyah', 'email': 'smanardiansyah@gmail.com', 'ponta_number': '9990021269055414'}], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-30 | 14:27:28 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+INFO | 2023-11-30 | 14:27:30 | {'status': True, 'data': [('Azman Ardiansyah', 'smanardiansyah@gmail.com', '9990021269055414')], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-30 | 14:27:55 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'

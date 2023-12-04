@@ -1,0 +1,27 @@
+ERROR | 2023-11-20 | 16:41:26 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidpwd58'
+ERROR | 2023-11-20 | 16:41:29 | connection to server at "34.101.181.164", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "34.101.181.164", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+INFO | 2023-11-20 | 16:41:29 | {'status': False, 'msg': 'Koneksi Database Error, Terdapat kesalahan Koneksi', 'errorcode': '01'}
+ERROR | 2023-11-20 | 16:43:52 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidpwd58'
+ERROR | 2023-11-20 | 16:43:53 | connection to server at "34.101.181.164", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+connection to server at "34.101.181.164", port 5432 failed: FATAL:  password authentication failed for user "postgres"
+
+INFO | 2023-11-20 | 16:43:53 | {'status': False, 'msg': 'Koneksi Database Error, Terdapat kesalahan Koneksi', 'errorcode': '01'}
+ERROR | 2023-11-20 | 16:52:49 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-20 | 16:52:56 | Log Error PGCode : 42P01 - query: SELECT * FROM public.employees - PGError : ERROR:  relation "public.employees" does not exist
+LINE 1: SELECT * FROM public.employees
+                      ^
+ 
+INFO | 2023-11-20 | 16:52:56 | {'status': False, 'data': '', 'msg': 'ERROR:  relation "public.employees" does not exist\nLINE 1: SELECT * FROM public.employees\n                      ^\n', 'notices': '', 'rowcount': '', 'errorcode': '42P01', 'errormsg': 'ERROR:  relation "public.employees" does not exist'}
+ERROR | 2023-11-20 | 16:59:33 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-20 | 16:59:35 | Log Error PGCode : 42P01 - query: SELECT * FROM public.customer - PGError : ERROR:  relation "public.customer" does not exist
+LINE 1: SELECT * FROM public.customer
+                      ^
+ 
+INFO | 2023-11-20 | 16:59:35 | {'status': False, 'data': '', 'msg': 'ERROR:  relation "public.customer" does not exist\nLINE 1: SELECT * FROM public.customer\n                      ^\n', 'notices': '', 'rowcount': '', 'errorcode': '42P01', 'errormsg': 'ERROR:  relation "public.customer" does not exist'}
+ERROR | 2023-11-20 | 17:01:57 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-20 | 17:08:47 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-20 | 17:10:04 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+ERROR | 2023-11-20 | 17:16:27 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-20 | 17:16:27 | {'status': True, 'data': [(5682, 'Ilham Ilham', None, 'ilham.ilham@mu.co.id', None, None, None, None, 19362, 1, None, '102988787385938497778', None, None, None, None, None, None, None, None, None, 'i', datetime.datetime(2021, 3, 22, 2, 0, 5, 267291, tzinfo=datetime.timezone.utc), datetime.datetime(2021, 3, 22, 2, 0, 5, 267291, tzinfo=datetime.timezone.utc), None, None, 1, None, None, None, None, None, None, None, None, None, None, None)], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}

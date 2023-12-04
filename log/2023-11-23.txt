@@ -1,0 +1,4 @@
+ERROR | 2023-11-23 | 11:16:22 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-23 | 11:16:23 | {'status': True, 'data': [('Nanda Novita', 'nandanovita400@gmail.com', '9990021012088458')], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-11-23 | 14:09:36 | ========host='34.101.181.164' port='5432' dbname='alfamidi_dummy' user='postgres' password='stockmidipwd58'
+INFO | 2023-11-23 | 14:09:38 | {'status': True, 'data': [('Nanda Novita', 'nandanovita400@gmail.com', '9990021012088458')], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}

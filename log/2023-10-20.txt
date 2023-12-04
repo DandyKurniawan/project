@@ -1,0 +1,70 @@
+ERROR | 2023-10-20 | 07:52:03 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 07:52:04 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 07:53:36 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 07:53:36 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 07:54:26 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 07:54:26 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 07:54:55 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 07:54:55 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 07:55:10 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 07:55:10 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 08:00:15 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:00:15 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 08:01:05 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:01:05 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 08:01:06 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:01:06 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 08:02:32 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:02:32 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 08:02:33 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:02:33 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 08:03:47 | ========host='alfamidilink:asia-southeast2:db-stock' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:03:47 | could not translate host name "alfamidilink:asia-southeast2:db-stock" to address: nodename nor servname provided, or not known
+
+ERROR | 2023-10-20 | 08:05:55 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:05:56 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:08:21 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:08:21 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:09:56 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:10:07 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:15:04 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:15:30 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:17:04 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:17:14 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:17:42 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:18:02 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:18:25 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:25:05 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:25:09 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:25:26 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 08:26:53 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 09:25:27 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 09:53:51 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 09:53:54 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 09:54:58 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 09:55:01 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 09:56:17 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 09:56:24 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 09:58:15 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 09:58:52 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 10:01:25 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 10:02:02 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 10:02:02 | Log Error PGCode : 42601 - query: UPDATE public.employees 
+        SET first_name = %(fname)s, last_name = %(lname)s, email = %(mail)s, phone_number = %(phone)s,
+        WHERE employee_id = %(empid)s - PGError : ERROR:  syntax error at or near "WHERE"
+LINE 3:         WHERE employee_id = '250'
+                ^
+ 
+ERROR | 2023-10-20 | 10:50:11 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 10:51:14 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-20 | 11:15:07 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'

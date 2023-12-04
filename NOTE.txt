@@ -1,0 +1,6 @@
+Untuk menjalakan folder ini :
+1. Install python versi < 3.10
+2. Install pip
+3. Install file requirments.txt => python -m pip install -r requirments.txt
+4. running file python menggunakan command => python main.py
+5. open IP local pada browser.

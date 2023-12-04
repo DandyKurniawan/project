@@ -1,0 +1,7 @@
+Flask
+gunicorn
+psycopg2-binary
+google-cloud-logging
+requests
+flask_session
+google-cloud-storage

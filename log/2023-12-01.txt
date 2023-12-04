@@ -1,0 +1,10 @@
+ERROR | 2023-12-01 | 08:46:33 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-12-01 | 08:50:23 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-12-01 | 09:08:53 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-12-01 | 09:09:34 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-12-01 | 09:33:21 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-12-01 | 09:34:47 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-12-01 | 13:50:12 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+ERROR | 2023-12-01 | 17:00:06 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'
+INFO | 2023-12-01 | 17:00:06 | {'status': True, 'data': [('Ager', 'dotdummy3rd@gmail.com', '12345678901234')], 'msg': 'select statement berhasil', 'notices': [], 'rowcount': 1, 'errorcode': '0', 'errormsg': ''}
+ERROR | 2023-12-01 | 17:00:20 | ========host='34.101.148.248' port='5432' dbname='alfamidi' user='postgres' password='postgresmidikriing123'

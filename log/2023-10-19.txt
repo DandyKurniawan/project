@@ -1,0 +1,114 @@
+ERROR | 2023-10-19 | 13:45:10 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:45:12 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:45:53 | Log Error PGCode : 23502 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%s, %s, %s, %s, %s) - PGError : ERROR:  null value in column "employee_id" violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, JSPHEYKEL, null, null, null, null, null, null, null).
+ 
+ERROR | 2023-10-19 | 13:46:21 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:46:25 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:46:28 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:47:10 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:47:25 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:47:25 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:47:30 | Log Error PGCode : 23502 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%s, %s, %s, %s, %s) - PGError : ERROR:  null value in column "employee_id" violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, JSPHEYKEL, null, null, null, null, null, null, null).
+ 
+ERROR | 2023-10-19 | 13:49:50 | Log Error PGCode : 23502 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%s, %s, %s, %s, %s) - PGError : ERROR:  null value in column "employee_id" violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, JSPHEYKEL, null, null, null, null, null, null, null).
+ 
+ERROR | 2023-10-19 | 13:50:10 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:50:11 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:50:15 | Log Error PGCode : 23502 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%s, %s, %s, %s, %s) - PGError : ERROR:  null value in column "employee_id" violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, JSPHEYKEL, null, null, null, null, null, null, null).
+ 
+ERROR | 2023-10-19 | 13:50:16 | Log Error PGCode : 23502 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%s, %s, %s, %s, %s) - PGError : ERROR:  null value in column "employee_id" violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, JSPHEYKEL, null, null, null, null, null, null, null).
+ 
+ERROR | 2023-10-19 | 13:52:00 | Log Error PGCode : 23502 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%s, %s, %s, %s, %s) - PGError : ERROR:  null value in column "employee_id" violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, JSPHEYKEL, null, null, null, null, null, null, null).
+ 
+ERROR | 2023-10-19 | 13:52:13 | Log Error PGCode : 23502 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%s, %s, %s, %s, %s) - PGError : ERROR:  null value in column "employee_id" violates not-null constraint
+DETAIL:  Failing row contains (null, null, null, JSPHEYKEL, null, null, null, null, null, null, null).
+ 
+ERROR | 2023-10-19 | 13:52:36 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:53:01 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:56:01 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 13:56:22 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:01:31 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:01:31 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:02:05 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:02:08 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:03:30 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:04:55 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:05:03 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:05:13 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:05:34 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:05:52 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:07:06 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:08:23 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:08:28 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:09:21 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:10:14 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:10:14 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:21:52 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:21:53 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:21:57 | Log Error PGCode : 23505 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%(empid)s, %(fname)s, %(lname)s, %(mail)s, %(phone)s) - PGError : ERROR:  duplicate key value violates unique constraint "employees_pk"
+DETAIL:  Key (employee_id)=(350) already exists.
+ 
+ERROR | 2023-10-19 | 14:22:46 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:22:50 | Log Error PGCode : 23505 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%(empid)s, %(fname)s, %(lname)s, %(mail)s, %(phone)s) - PGError : ERROR:  duplicate key value violates unique constraint "employees_pk"
+DETAIL:  Key (employee_id)=(350) already exists.
+ 
+ERROR | 2023-10-19 | 14:23:12 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:23:19 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:24:30 | Log Error PGCode : 23505 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%(empid)s, %(fname)s, %(lname)s, %(mail)s, %(phone)s) - PGError : ERROR:  duplicate key value violates unique constraint "employees_pk"
+DETAIL:  Key (employee_id)=(500) already exists.
+ 
+ERROR | 2023-10-19 | 14:25:55 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:26:00 | Log Error PGCode : 23505 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%(empid)s, %(fname)s, %(lname)s, %(mail)s, %(phone)s) - PGError : ERROR:  duplicate key value violates unique constraint "employees_pk"
+DETAIL:  Key (employee_id)=(500) already exists.
+ 
+ERROR | 2023-10-19 | 14:26:01 | Log Error PGCode : 23505 - query: INSERT INTO public.employees (employee_id, first_name, last_name, email, phone_number) VALUES (%(empid)s, %(fname)s, %(lname)s, %(mail)s, %(phone)s) - PGError : ERROR:  duplicate key value violates unique constraint "employees_pk"
+DETAIL:  Key (employee_id)=(500) already exists.
+ 
+ERROR | 2023-10-19 | 14:26:47 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:27:03 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:27:46 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:27:49 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:28:18 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:30:47 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:32:40 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:34:39 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:35:05 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:35:55 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:37:09 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:37:48 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:39:49 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:39:49 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:40:39 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:44:48 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:45:43 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:47:56 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 14:48:14 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:05:48 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:05:49 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:12:24 | Log Error PGCode : 22P02 - query: UPDATE public.employees 
+        SET first_name = %(fname)s, last_name = %(lname)s, email = %(mail)s, phone_number = %(phone)s
+        WHERE employee_id = %(empid)s - PGError : ERROR:  invalid input syntax for type integer: ""
+LINE 3:         WHERE employee_id = ''
+                                    ^
+ 
+ERROR | 2023-10-19 | 15:14:28 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:14:43 | Log Error PGCode : 22P02 - query: UPDATE public.employees 
+        SET first_name = %(fname)s, last_name = %(lname)s, email = %(mail)s, phone_number = %(phone)s
+        WHERE employee_id = %(empid)s - PGError : ERROR:  invalid input syntax for type integer: ""
+LINE 3:         WHERE employee_id = ''
+                                    ^
+ 
+ERROR | 2023-10-19 | 15:17:44 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:17:45 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:19:00 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:20:30 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:27:26 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:27:27 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:37:20 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
+ERROR | 2023-10-19 | 15:37:21 | ========host='34.101.181.164' port='5432' dbname='db-magang' user='magang' password='magangm1d1'
